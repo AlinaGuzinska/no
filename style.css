@@ -1,7 +1,7 @@
 .logo{font-family: ralwey;
 font-style: 700;
-
 font-size: 26px;}
+header:hover{color:#2196F3;}
 .link{font-family:roboto;
     color:#2196F3;
 }
@@ -33,3 +33,4 @@ color:black;}
 color: white;
 background: #2F303A;
 }
+
