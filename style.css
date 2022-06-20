@@ -1,9 +1,10 @@
+
 header {color: #212121;
     font-family: Roboto;
 font-size: 14px;
 font-weight: 500;
 line-height: 100%;
-;}
+}
 .logo{font-family: ralwey;
 font-style: 700;
 font-size: 26px;
@@ -12,9 +13,7 @@ line-height: 191%;}
 color:#757575;
 }
 header:hover{color:#2196F3;}
-.link{font-family:roboto;
-    color:#2196F3;
-}
+
 main{font-family: Roboto;
     font-size: 14px;
     font-weight: 400;
@@ -34,7 +33,8 @@ background: #2F303A;
 }
 .title{
 font-weight: 900;
-font-size:44px}
+font-size:44px;
+line-height: 136%;}
 .lorem{
     font-size: 14px;
     font-weight: 700;
