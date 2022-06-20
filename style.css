@@ -10,15 +10,14 @@ header:hover{color:#2196F3;}
 }
 .contact{font-size: 400;
 color:black;}
-.contact:hover {background: #2196F3;
-color:white;}
+.contact:hover {color: #2196F3;
+}
 .link{font-family:roboto;
     color:#2196F3;
 }
 main{font-family: Roboto;
     font-size: 14px;
     font-weight: 400;
-    line-height: 24px;
      }
 .body{
 color: white;
@@ -30,19 +29,19 @@ font-size:44px}
 .lorem{
     font-size: 14px;
     font-weight: 700;
-    background: #212121;
+    color: #212121;
  }
  h2{font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
     line-height: 42px;
-    background: #212121;
+    color: #212121;
 }
  .name{
     font-size: 16px;
     font-weight: 500;
     line-height: 19px;
-    background: #212121;
+    color: #212121;
     }
 .bw2{font-family: Roboto;
 font-size: 16px;
