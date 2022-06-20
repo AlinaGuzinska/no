@@ -21,9 +21,10 @@ font-weight: 500;
 background: #F5F4FA;
 color: black;
 }
-.bw2:hover {background: #2196F3;
+.contact:hover {background: #2196F3;
 color:white;}
-footer{background: #2F303A;}
+footer{background: #2F303A;
+color: #F5F4FA;}
 .back{font-size:500;
     background: #2F303A;
 }
@@ -33,4 +34,3 @@ color:black;}
 color: white;
 background: #2F303A;
 }
-
