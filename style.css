@@ -1,25 +1,33 @@
+header {color: #212121;
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+;}
 .logo{font-family: ralwey;
 font-style: 700;
-font-size: 26px;}
-header:hover{color:#2196F3;}
-.button {cursor: pointer;}
-.bw1 {font-family: Roboto;
-    font-size: 16px;
-    font-weight: 700;
-    color: white;
-    background: #2196F3;
-}
+font-size: 26px;
+line-height: 31px;;}
 .contact{font-size: 400;
-color:black;}
-.contact:hover {color: #2196F3;
+color:#757575;
 }
+header:hover{color:#2196F3;}
 .link{font-family:roboto;
     color:#2196F3;
 }
 main{font-family: Roboto;
     font-size: 14px;
     font-weight: 400;
+    line-height: 136%;
      }
+.button {cursor: pointer;}
+.bw1 {font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    background: #2196F3;
+    line-height: 188%;
+}
 .body{
 color: white;
 background: #2F303A;
@@ -31,6 +39,7 @@ font-size:44px}
     font-size: 14px;
     font-weight: 700;
     color: #212121;
+    line-height: 16px;
  }
  h2{font-family: Roboto;
     font-size: 36px;
@@ -49,9 +58,9 @@ font-size: 16px;
 font-weight: 500;
 background: #F5F4FA;
 color: black;
-}
-.back{font-size:500;
-    background: #2F303A;
+line-height: 162%;
 }
 footer{background: #2F303A;
-color: #F5F4FA;}
+color: #F5F4FA;
+line-height: 171%;
+font-size:400;}
