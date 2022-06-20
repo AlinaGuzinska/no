@@ -1,8 +1,11 @@
 .logo{font-family: ralwey;
-font-style: 700;}
+font-style: 700;
+
+font-size: 26px;}
 .link{font-family:roboto;
     color:#2196F3;
 }
+main{color:black}
 .title{font-family: Roboto;
 font-weight: 900;
 font-size:44px}
