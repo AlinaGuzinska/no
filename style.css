@@ -1,6 +1,10 @@
 .logo{font-family: ralwey;
 font-style: 700;}
-.link{font-family:roboto}
+.link{font-family:roboto;
+}
+.title{font-family: Roboto;
+font-weight: 900;
+font-size:44px}
 .bw1 {font-family: Roboto;
     font-size: 16px;
     font-weight: 700;
@@ -11,12 +15,13 @@ font-style: 700;}
 font-size: 16px;
 font-weight: 500;
 }
-.back{font-size:500}
-.contact{font-size: 400;}
-.button{background-color: blue;}
-.title{font-family: Roboto;
-font-weight: 900;
-font-size:44px}
+.back{font-size:500;
+    background: #2F303A;
+}
+.contact{font-size: 400;
+color:black;}
+.button {background: #2196F3;}
+
 .body{font-family: Roboto;
 color: white;
 background: #2F303A;
